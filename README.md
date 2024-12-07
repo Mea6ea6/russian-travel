@@ -1,12 +1,3 @@
-# Проектная работа  
+# Russian Travel
 
-__Название:__ «Путешествие по России»  
-
-__Функционал сайта:__  
-
-- сверстанная интерактивная страничка;
-- проект размещен на GitHub Pages.
-
-------
-
-__Инструменты и стек:__ #HTML #CSS #Git #Flex-box #Grid-layout #Bem-methodology
+__Tools and stack:__ #HTML #CSS #Git #Flex-box #Grid-layout #Bem-methodology
